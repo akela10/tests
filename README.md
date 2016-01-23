@@ -1,2 +1,2 @@
 # tests
-allo lenya
+allo lenya, lyda
