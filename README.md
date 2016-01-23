@@ -1,2 +1,2 @@
 # tests
-allo lenya, lyda
+allo lenya, lyda oy-oy-oy
